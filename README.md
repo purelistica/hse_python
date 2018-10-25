@@ -5,4 +5,3 @@
 
 Выборка наблюдений, использованных для анализа: [клики](https://github.com/purelistica/hse_python/blob/master/clicks_sample.csv), [покупки](https://github.com/purelistica/hse_python/blob/master/buys_sample.csv)
 
-[Ноутбук с кодом](https://github.com/purelistica/hse_python/blob/master/prj_python.ipynb)
